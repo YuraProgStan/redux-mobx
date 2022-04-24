@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "authorId": 1,
+      "title": "Some post",
+      "text": "sdfgfdg",
+      "id": 1650815819736
+    },
+    {
+      "authorId": 1,
+      "title": "Some text",
+      "text": "",
+      "id": 1650816443006
+    },
+    {
+      "authorId": 1,
+      "title": "More text",
+      "text": "dsfadsf",
+      "id": 1650816478825
+    },
+    {
+      "authorId": 1,
+      "title": "",
+      "text": "Вышло",
+      "id": 1650816534046
+    }
+  ],
+  "comments": [],
+  "me": {
+    "id": 1,
+    "name": "Yura"
+  }
+}
